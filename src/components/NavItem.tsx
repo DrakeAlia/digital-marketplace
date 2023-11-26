@@ -31,6 +31,9 @@ const NavItem = ({ isAnyOpen, category, handleOpen, isOpen }: NavItemProps) => {
           />
         </Button>
       </div>
+
+
+      
     </div>
   );
 };
